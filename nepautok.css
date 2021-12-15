@@ -17,16 +17,17 @@
 	margin-bottom: 10px;
 }
 
-body{
+body {
 	text-align: justify;
 }
-a{
+
+a {
 	color: darkgrey;
 	background-color: lightgray;
 	text-decoration: none;
 
 }
 
-a:hover{
+a:hover {
 	color: chocolate;
 }
