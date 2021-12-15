@@ -39,5 +39,16 @@ a:hover {
 	border: 1px;
 	border-color: #999;
 	border-style: none;
-	
+	float: left;
+	margin: 10px;
+}
+.img-box2{
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px;
+	border-color: #999;
+	border-style: none;
+	float: right;
+	margin: 10px;
 }
