@@ -17,16 +17,38 @@
 	margin-bottom: 10px;
 }
 
-body{
+body {
 	text-align: justify;
 }
-a{
+
+a {
 	color: darkgrey;
 	background-color: lightgray;
 	text-decoration: none;
 
 }
 
-a:hover{
+a:hover {
 	color: chocolate;
+}
+
+.img-box {
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px;
+	border-color: #999;
+	border-style: none;
+	float: left;
+	margin: 10px;
+}
+.img-box2{
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px;
+	border-color: #999;
+	border-style: none;
+	float: right;
+	margin: 10px;
 }
